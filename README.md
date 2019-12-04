@@ -2,7 +2,7 @@
 
 ### update details
 
-name:  
+name:  brachi schindler
 id:
 
 #### you have only to upload file "index.js" to repo.
